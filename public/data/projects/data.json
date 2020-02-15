@@ -1,0 +1,42 @@
+[
+    {
+        "link" : "http://www.michaelcinco.com/",
+        "title" : "Michael Cinco",
+        "imgSRC" : "/data/projects/images/mc.jpg"
+     },
+     {
+        "link" : "https://utahsurgical.com/",
+        "title" : "Utah Surgical Associates",
+        "imgSRC" : "/data/projects/images/utahsurgical.jpg"
+     },
+     {
+        "link" : "https://www.cebuqualitypuppies.com/",
+        "title" : "Cebu Quality Puppies",
+        "imgSRC" : "/data/projects/images/qc.jpg"
+     },
+     {
+        "link" : "https://www.graceandpoppydesign.com/",
+        "title" : "Grace and Poppy",
+        "imgSRC" : "/data/projects/images/gracepoppy.jpg"
+     },
+     {
+        "link" : "http://phildentcanada.com/",
+        "title" : "Phildent Canada",
+        "imgSRC" : "/data/projects/images/phildentcanada.jpg"
+     },
+     {
+        "link" : "https://aeroparks.bookrr.io/",
+        "title" : "AeroParks",
+        "imgSRC" : "/data/projects/images/aeroparks.jpg"
+     },
+     {
+        "link" : "http://www.executivepods.co.uk/",
+        "title" : "Executive Pods",
+        "imgSRC" : "/data/projects/images/executivepods.jpg"
+     },
+     {
+        "link" : "http://dresshire.dveloop.com/",
+        "title" : "DressHire",
+        "imgSRC" : "/data/projects/images/dresshire.jpg"
+     }
+]
